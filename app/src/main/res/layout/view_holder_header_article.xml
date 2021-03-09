@@ -7,7 +7,7 @@
     <data>
         <variable
             name="Model"
-            type="meehan.matthew.multirecyclerapp.ArticleHeaderModel" />
+            type="meehan.matthew.multirecyclerapp.model.ArticleHeaderModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

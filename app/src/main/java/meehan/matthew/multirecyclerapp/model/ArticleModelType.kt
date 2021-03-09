@@ -1,4 +1,4 @@
-package meehan.matthew.multirecyclerapp
+package meehan.matthew.multirecyclerapp.model
 
 enum class ArticleModelType {
     HEADER,

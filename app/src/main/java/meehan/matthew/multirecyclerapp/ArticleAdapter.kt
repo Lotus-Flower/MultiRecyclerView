@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import meehan.matthew.multirecyclerapp.databinding.ViewHolderHeaderArticleBinding
 import meehan.matthew.multirecyclerapp.databinding.ViewHolderHeadlineArticleBinding
 import meehan.matthew.multirecyclerapp.databinding.ViewHolderPhotoArticleBinding
+import meehan.matthew.multirecyclerapp.model.*
 
 class ArticleAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 

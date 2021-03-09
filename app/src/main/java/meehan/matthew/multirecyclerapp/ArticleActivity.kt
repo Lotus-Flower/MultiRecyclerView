@@ -3,7 +3,6 @@ package meehan.matthew.multirecyclerapp
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
-import androidx.recyclerview.widget.LinearLayoutManager
 import meehan.matthew.multirecyclerapp.databinding.ActivityArticleBinding
 
 class ArticleActivity : AppCompatActivity() {

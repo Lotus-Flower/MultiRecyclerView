@@ -68,5 +68,4 @@ class ArticleAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
             itemBinding.model = articleModel as PhotoArticleModel
         }
     }
-
 }
